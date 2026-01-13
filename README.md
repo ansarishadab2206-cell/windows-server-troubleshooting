@@ -1,6 +1,5 @@
-# Windows Server Troubleshooting
+⭐ This repository documents real-world Windows Server and Active Directory troubleshooting scenarios used in technical support environments.
 
-This repository contains technical support troubleshooting documentation and PowerShell scripts for Windows Server environments.
 
 ## What You Will Find Here
 - Common Windows Server issue resolution steps
